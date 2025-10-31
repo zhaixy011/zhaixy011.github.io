@@ -16,3 +16,12 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+  Xiangyang Zhai:
+  name        : "Xiangyang Zhai"
+  uri         : "https://zhaixy011.github.io"
+  email       : "zhaixiangyang24@mails.ucas.ac.cn"
+  bio         : "PhD student, Chinese Academy of Sciences. Focused on climate finance and climate risk management."
+  avatar      : "bio-photo-2.jpg"
+  twitter     : # "name"
+  google_plus : # "Name"
