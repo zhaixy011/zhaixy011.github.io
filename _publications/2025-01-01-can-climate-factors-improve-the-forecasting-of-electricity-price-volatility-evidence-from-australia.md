@@ -1,6 +1,7 @@
 ---
 title: "Can climate factors improve the forecasting of electricity price volatility? Evidence from Australia"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-can-climate-factors-improve-the-forecasting-of-electricity-price-volatility-evidence-from-australia
 excerpt: 'The increasing share of renewable energy generation and the frequent occurrence of extreme climate events have made the impact of climate factors on electricity price fluctuations increasingly prominent. This paper compares the forecasting accuracy of electricity price volatility in the Australian National Electricity Market before and after incorporating a series of climate factors into traditional heterogeneous autoregressive realized volatility (HAR-RV) models. The results show that climate factors, including precipitation, wind speed, maximum temperature, minimum temperature, and average temperature, have significant out-of-sample predictive value for the Australian electricity market. Compared to the widely studied HAR-RV model and the one which incorporates higher-order moments, our model achieved a maximum reduction in RMSE by 44.120 % and 26.227 %, respectively. Based on step-length electricity price volatility forecasting, long-term trends relating to climate factors should not be overlooked. The variable importance rankings of precipitation and wind speed in the volatility forecasting model is related to the dynamic changes in renewable energy generation, reflecting the sensitivity of electricity price fluctuations to the seasonal characteristics of climate, while sudden extreme weather events often lead to a significant increase in the importance rankings of related climate factors.'
 date: 2025-01-01

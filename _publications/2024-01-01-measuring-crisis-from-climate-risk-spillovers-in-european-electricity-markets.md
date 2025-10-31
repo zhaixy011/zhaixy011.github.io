@@ -1,6 +1,7 @@
 ---
 title: "Measuring crisis from climate risk spillovers in European electricity markets"
-collection: manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-measuring-crisis-from-climate-risk-spillovers-in-european-electricity-markets
 excerpt: 'This paper studies how climate risks spill over to European electricity markets across time and frequency domains using the connectedness network approach. By introducing three climate risk measures—the climate policy uncertainty index, climate physical risk index, and climate concern index—the empirical results reveal the vulnerability of European electricity markets to volatile climate policies and extreme climate crisis events. Overall, the spillover effects in the climate–electricity nexus are primarily concentrated in the medium- and long-term frequency domains, indicating that the impact of climate risk shocks is persistent. Compared with the impact of climate physical risks and climate concern shocks, the spillovers from climate policy uncertainty shocks to the electricity market are higher and more persistent. These findings highlight the need to consider the heterogeneous impacts of climate risks on electricity markets at different frequency bands.'
 date: 2024-01-01
