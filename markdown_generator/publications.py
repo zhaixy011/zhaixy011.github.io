@@ -101,7 +101,6 @@ for row, item in publications.iterrows():
 
     md += "\nRecommended citation: " + item.citation
 
-    md += "\n---"
     md += "\n[Access paper here](" + item.access_url + '){:target="_blank"}\n'
 
     md_filename = os.path.basename(md_filename)
