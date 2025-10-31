@@ -86,15 +86,15 @@
         {% endif %}
         
         {% if post.accessurl %}
-          <a href="{{ post.accessurl }}" target="_blank">Read Online</a>{% if post.paperurl or post.slidesurl or post.bibtexurl %} | {% endif %}
+          <a href="{{ post.accessurl }}" target="_blank">Read Online</a>{% if post.paperurl or post.slidesurl or post.bibtexurl %}  |  {% endif %}
         {% endif %}
 
         {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" target="_blank">Download Paper</a>{% if post.slidesurl or post.bibtexurl %} | {% endif %}
+          <a href="{{ post.paperurl }}" target="_blank">Download Paper</a>{% if post.slidesurl or post.bibtexurl %}  |  {% endif %}
         {% endif %}
 
         {% if post.slidesurl %}
-          <a href="{{ post.slidesurl }}" target="_blank">Download Slides</a>{% if post.bibtexurl %} | {% endif %}
+          <a href="{{ post.slidesurl }}" target="_blank">Download Slides</a>{% if post.bibtexurl %}  |  {% endif %}
         {% endif %}
 
         {% if post.bibtexurl %}
