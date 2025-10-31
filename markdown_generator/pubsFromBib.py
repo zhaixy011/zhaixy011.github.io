@@ -127,6 +127,7 @@ for pubsource in publist:
             )
 
             md += """collection: """ + publist[pubsource]["collection"]["name"]
+            md += """\ncategory: """ + pubsource
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"] + html_filename
 
