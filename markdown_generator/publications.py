@@ -71,7 +71,9 @@ for row, item in publications.iterrows():
     md = '---\ntitle: "' + item.title + '"\n'
 
     # TODO Update to use the category assigned in the TSV file
-    md += """collection: manuscripts"""
+    md += """collection: publications"""
+
+    md += """\ncategory: """ + item.category
 
     md += """\npermalink: /publication/""" + html_filename
 
@@ -98,6 +100,9 @@ for row, item in publications.iterrows():
         md += "\n" + html_escape(item.excerpt) + "\n"
 
     md += "\nRecommended citation: " + item.citation
+
+    md += "\n---"
+    md += "\n[Access paper here](" + item.access_url + '){:target="_blank"}\n'
 
     md_filename = os.path.basename(md_filename)
 
