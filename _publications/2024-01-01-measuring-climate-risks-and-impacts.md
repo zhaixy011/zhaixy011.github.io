@@ -1,7 +1,7 @@
 ---
 title: "Measuring Climate Risks and Impacts"
 collection: publications
-category: book
+category: books
 permalink: /publication/2024-01-01-measuring-climate-risks-and-impacts
 date: 2024-01-01
 venue: 'Climate Finance: Supporting a Sustainable Energy Transition'

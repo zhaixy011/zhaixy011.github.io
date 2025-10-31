@@ -1,7 +1,7 @@
 ---
 title: "Climate-Driven Financial Innovations: Green Financial Tools"
 collection: publications
-category: book
+category: books
 permalink: /publication/2024-01-01-climate-driven-financial-innovations-green-financial-tools
 date: 2024-01-01
 venue: 'Climate Finance: Supporting a Sustainable Energy Transition'

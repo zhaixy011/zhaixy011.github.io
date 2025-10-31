@@ -33,13 +33,13 @@ publist = {
     #     "collection" : {"name":"publications",
     #                     "permalink":"/publication/"}
     # },
-    "journal": {
+    "manuscripts": {
         "file": "output.bib",
         "venuekey": "journal",
         "venue-pretext": "",
         "collection": {"name": "publications", "permalink": "/publication/"},
     },
-    "book": {
+    "books": {
         "file": "output.bib",
         "venuekey": "bookTitle",
         "venue-pretext": "",
