@@ -13,7 +13,7 @@ Xiangyang Zhai (翟向阳) conducts research at the intersection of **climate fi
 
 Xiangyang Zhai is currently a Ph.D. student at the [Institutes of Science and Development](https://casisd.cas.cn/), [Chinese Academy of Sciences (CAS)](https://www.cas.cn/), under the supervision of [Prof. Qiang Ji (姬强)](https://casisd.cas.cn/sourcedb/zw/zjrc/201708/t20170815_4847096.html) since the fall of 2024.
 
-Under Prof. Ji’s guidance, he studies climate financial risk modeling and participates as a core member in the [National Natural Science Foundation of China (NSFC) special project](https://www.nsfc.gov.cn/), “Pre-research on Key Theories and Technologies of Multi-Scale Mode Coupling in Natural–Social Systems toward Carbon Neutrality Pathways”.
+Under Prof. Ji’s guidance, he studies climate financial risk modeling and participates as a core member in the [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) special project, “Pre-research on Key Theories and Technologies of Multi-Scale Mode Coupling in Natural–Social Systems toward Carbon Neutrality Pathways”.
 
 His current work focuses on understanding how financial systems respond to climate risks and how integrated assessment models—such as GCAM—can be applied to support sustainable investment and climate policy design.
 
