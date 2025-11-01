@@ -134,52 +134,8 @@
       "summary": "\u6c14\u5019\u53d8\u5316\u5df2\u7ecf\u6210\u4e3a\u5f71\u54cd\u5168\u7403\u91d1\u878d\u4f53\u7cfb\u4e0d\u7a33\u5b9a\u7684\u65b0\u7684\u98ce\u9669\u6e90, \u79d1\u5b66\u5730\u8bc6\u522b\u548c\u8bc4\u4f30\u6c14\u5019\u98ce\u9669\u5bf9\u91d1\u878d\u7cfb\u7edf\u7684\u4f20\u5bfc\u8def\u5f84\u662f\u6c14\u5019\u91d1\u878d\u9886\u57df\u7684\u91cd\u5927\u8bae\u9898. \u7136\u800c, \u5f53\u524d\u5728\u6c14\u5019\u91d1\u878d\u98ce\u9669\u5efa\u6a21\u7684\u65b9\u6cd5\u4e0e\u5b9e\u8df5\u5e94\u7528\u65b9\u9762\u4ecd\u5b58\u5728\u8bf8\u591a\u6311\u6218. \u672c\u6587\u4ece\u91d1\u878d\u5e02\u573a\u7684\u6c14\u5019\u98ce\u9669\u7279\u5f81\u3001\u6c14\u5019\u91d1\u878d\u7684\u98ce\u9669\u8bc4\u4f30\u65b9\u6cd5\u53ca\u5b9e\u8df5\u3001\u672a\u6765\u91cd\u8981\u7814\u7a76\u65b9\u5411\u7b49\u51e0\u4e2a\u65b9\u9762\u5c55\u5f00\u63a2\u8ba8. \u9996\u5148, \u672c\u6587\u5bf9\u91d1\u878d\u5e02\u573a\u6c14\u5019\u98ce\u9669\u7684\u4e09\u5927\u7279\u5f81\u8fdb\u884c\u9610\u8ff0. \u5176\u6b21, \u672c\u6587\u7cfb\u7edf\u68b3\u7406\u4e86\u8fd1\u5e74\u6765\u6c14\u5019\u91d1\u878d\u98ce\u9669\u8bc4\u4f30\u7684\u4e09\u7c7b\u4e3b\u6d41\u7814\u7a76\u65b9\u6cd5, \u5206\u6790\u5176\u9002\u7528\u573a\u666f\u4e0e\u5c40\u9650\u6027, \u603b\u7ed3\u5404\u56fd\u592e\u884c\u53ca\u91d1\u878d\u76d1\u7ba1\u673a\u6784\u7684\u76f8\u5173\u5e94\u7528\u5b9e\u8df5. \u6700\u540e, \u672c\u6587\u6307\u51fa\u4e86\u6c14\u5019\u91d1\u878d\u98ce\u9669\u8bc4\u4f30\u672a\u6765\u7814\u7a76\u7684\u91cd\u8981\u65b9\u5411, \u4e3a\u63a8\u52a8\u8be5\u9886\u57df\u7684\u7406\u8bba\u53d1\u5c55\u548c\u5b9e\u8df5\u5e94\u7528\u63d0\u4f9b\u53c2\u8003."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
       "name": "Portfolio item number 1",
