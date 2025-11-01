@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Management Science and Engineering, Chinese Academy of Sciences (CAS), 2024–Present
+* B.S. in Management Information Systems, Central University of Finance and Economics (CUFE), 2020–2024
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Climate Finance and Risk Modeling
+  * Assessment of climate-related transition and physical risks in financial systems
+  * Application of the **Global Change Assessment Model (GCAM)** for integrated energy–economy–climate simulations
+  * Systemic risk and contagion analysis, including **climate stress testing** for financial institutions
+  * Development of **financial network models** to evaluate risk spillovers and interbank linkages
+  * **Agent-based modeling** for dynamic simulation of financial market behaviors under climate scenarios
+
+* Computational and Programming Skills
+  * **Python** — proficient in data analysis, deep learning, simulation modeling, and web scraping  
+  * **R** — statistical modeling, econometrics, and data visualization  
+  * **MATLAB** — numerical optimization and system simulation  
+  * **Stata** — econometric analysis and panel data modeling  
+  * **Java** — object-oriented programming and model implementation
+
+* Quantitative Analysis and Data Handling
+  * Time-series and panel data econometrics  
+  * Deep learning for financial risk forecasting  
+  * Data cleaning, integration, and visualization with large-scale datasets
 
 Publications
 ======

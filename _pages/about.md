@@ -9,13 +9,15 @@ redirect_from:
 
 About me
 --------------------------
-Xiangyang Zhai (翟向阳) is a PhD student at Institutes of Science and Development, Chinese Academy of Sciences (CAS).
+Xiangyang Zhai (翟向阳) conducts research at the intersection of **climate finance**, **climate risk management**, and **energy–economy–climate modeling**.
 
-His research interests lie at the intersection of **climate finance**, **climate risk management**, and **energy–economy–climate modeling**.
+Xiangyang Zhai is currently a Ph.D. student at the [Institutes of Science and Development](https://casisd.cas.cn/), [Chinese Academy of Sciences (CAS)](https://www.cas.cn/), under the supervision of [Prof. Qiang Ji](https://casisd.cas.cn/sourcedb/zw/zjrc/201708/t20170815_4847096.html) since the fall of 2024.
 
-He focuses on understanding how financial systems respond to climate transition risks, and how integrated assessment models (such as GCAM) can be used to inform sustainable investment and policy design.
+Under Prof. Ji’s guidance, he studies climate financial risk modeling and participates as a core member in the [National Natural Science Foundation of China (NSFC) special project](https://www.nsfc.gov.cn/), “Pre-research on Key Theories and Technologies of Multi-Scale Mode Coupling in Natural–Social Systems toward Carbon Neutrality Pathways”.
 
-His current work explores the transmission of climate-related shocks across energy and financial markets, the modeling of carbon transition pathways under multiple socioeconomic scenarios, and the implications of climate policies for industrial structure and systemic financial stability.
+His current work focuses on understanding how financial systems respond to climate risks and how integrated assessment models—such as GCAM—can be applied to support sustainable investment and climate policy design.
+
+He is particularly interested in modeling the transmission of climate-related shocks across energy and financial markets, analyzing carbon transition pathways under different socioeconomic scenarios, and assessing the implications of climate policies for industrial structure and systemic financial stability.
 
 
 Research and Publications
